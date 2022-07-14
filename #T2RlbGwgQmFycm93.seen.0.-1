@@ -198,6 +198,7 @@
 ,[69,38,"c:dg;<color_yellow>Casings</color>: <color_white>Several spent casings are here.</color>",false,0]
 ,[58,10,".:lg;<color_yellow>Burned Ground (Point)</color>: <color_white>Burned ground is here.</color>",false,0]
 ,[61,14,"p:B;<color_yellow>Pond</color>: <color_white>Small pond is here.</color>",false,0]
+,[169,9,"move here",false,0]
 ],[[124,38,"o:R;<color_yellow>Crater</color>: <color_white>There is a crater here.</color>",false,0]
 ,[127,42,"W:Y;<color_yellow>Wasp Nest</color>: <color_white>Wasp nest is here.</color>",false,0]
 ,[140,43,"c:r;<color_yellow>Lost Bugout Bag</color>: <color_white>Someone lost a bugout bag here while fleeing.</color>",false,0]
